@@ -1,1 +1,5 @@
-<?PHP echo "Hallo wereld" ?>
+<?PHP echo "Hallo wereld";
+  
+  echo "nog een hallo";
+?>
+  
